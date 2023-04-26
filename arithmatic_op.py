@@ -34,3 +34,8 @@ def calc_power(N, p):
 
 
 print(calc_power(2, 2))
+
+def information():
+    print("Project for Arithmatic Operation")
+    return
+information()
