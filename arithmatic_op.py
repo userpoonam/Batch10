@@ -38,4 +38,9 @@ print(calc_power(2, 2))
 def info():
     print("This project is for arithmatic operations")
     return
-info() 
+info()
+
+def information():
+    print("Project for Arithmatic Operation")
+    return
+information()
