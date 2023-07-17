@@ -44,3 +44,6 @@ def information():
     print("Project for Arithmatic Operation")
     return
 information()
+def info():
+    print("project for Arithmatic.....")
+info()
